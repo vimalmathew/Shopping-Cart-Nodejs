@@ -9,3 +9,9 @@ Version 2
 >layout finished, hbs engine installed
 >navbar changing with user and admin
 
+Version 3
+----------
+>add-product page finished both methods working,data seen on console window
+>used npm i express-fileupload for uploading forms
+>user and admin pages setup
+
