@@ -15,3 +15,13 @@ Version 3
 >used npm i express-fileupload for uploading forms
 >user and admin pages setup
 
+Version 4
+----------
+>mongo db connected
+>use npm i  mongodb
+>product added in mongodb
+>created new folder for uploaded images
+
+
+
+
