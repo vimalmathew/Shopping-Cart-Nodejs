@@ -22,6 +22,11 @@ Version 4
 >product added in mongodb
 >created new folder for uploaded images
 
+Version 5
+------------
+>getallproduct function created for getting products in admin and user page
+>styling completed
+
 
 
 
